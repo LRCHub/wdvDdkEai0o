@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "残香",
+  "base_artist": "8utterfly",
+  "createdAt": "2026-02-13T23:53:04.413738Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "残香",
+      "artist": "8utterfly",
+      "has_synced": false,
+      "path": "select/pl_01_残香_8utterfly.txt"
+    }
+  ]
+}
